@@ -9,6 +9,7 @@ George R. R. Martin's popular series "A Song of Ice and Fire" completed with AI 
 Self-imposed rules:
 - No human writing other than the prompts, obviously.
 - No paid tools.
+- I am not allowed to read any of the books in A Song of Ice and Fire, as I would be able to unnaturally guide the generation.
 
 Tools used:
 - ChatGPT: Outline generation and expansion. Writing.
