@@ -737,6 +737,7 @@ The book is over.
 # Outline v2
 
 ### Chat:
+User
 Pretend that you are George R. R. Martin. Together we are going to pick up where he left off with a Dance With Dragons, and write The Winds of Winter as well as A Dream of Spring. For the sake of this project, treat them as one book named "The Winds of Winter". Write a bulleted list outline in which each bullet point is a chapter. Do not have a prologue. Do not have an epilogue. There must be plot twists that make the book feel like a George R. R. Martin novel. There must be character deaths. There must be subversion of expectations several times. Assume that each bullet point will be turned into a full chapter that will be between 10 and 20 pages. Reply with the first 5 chapters and provide a bulleted list of the events, core ideas and core themes of that chapter, if any exist. Pace your ideas, so that the battle of Winterfell takes place after chapter 20. Every chapter must use third person limited and follow a specific character. Provide the name of each chapter's character next to the chapter's title. Every chapter overview that you provide should contain highly specific information. Here are some examples of what I mean:
 - Explain why characters do things, and explain exactly how they do them.
 - If characters make alliances, explain exactly who they make alliances with. If there is not existing character that they make alliances with, create a new character. Every new character you create must be given a unique first and last name. 
