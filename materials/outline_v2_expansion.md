@@ -21,22 +21,22 @@ Outline:
 1. Introduction:
 - The chapter begins with Tyrion Lannister aboard a ship called the Wind's Grace, sailing across the Narrow Sea.
 - Tyrion is plagued by guilt and regret over killing his father, Tywin Lannister, and the subsequent chaos it caused in Westeros.
-- He reflects on his decision to flee to Essos, hoping to start anew. 
+- He reflects on his decision to flee to Essos, hoping to start anew.
 2. Arrival in Pentos:
 - The Wind's Grace docks in the bustling port city of Pentos, and Tyrion disembarks, eager to explore this new land.
 - He navigates through the lively streets, taking in the exotic sights and sounds of the city.
-- Tyrion arrives at the opulent manse of Illyrio Mopatis, a wealthy and influential merchant who has agreed to offer him aid. 
+- Tyrion arrives at the opulent manse of Illyrio Mopatis, a wealthy and influential merchant who has agreed to offer him aid.
 3. Meeting with Illyrio Mopatis:
 - Tyrion is ushered into a lavishly decorated room where Illyrio awaits him.
 - Illyrio, a portly man with a gilded beard, greets Tyrion warmly and offers him food and wine.
 - They engage in a conversation, discussing the current state of affairs in Westeros and the potential for power shifts.
 - Illyrio reveals his interest in Daenerys Targaryen, the last surviving member of the Targaryen dynasty, and her dragons.
-- Tyrion, intrigued by the idea of aligning with Daenerys, expresses his curiosity and desire to meet her. 
+- Tyrion, intrigued by the idea of aligning with Daenerys, expresses his curiosity and desire to meet her.
 4. Secrets and Departure:
 - Illyrio confides in Tyrion, sharing more details about Daenerys' exploits, her struggle for power, and her growing army.
 - Tyrion becomes increasingly fascinated by the potential of joining forces with Daenerys and her dragons to reclaim Westeros.
 - Illyrio provides Tyrion with resources, including information about ships sailing to Meereen, where Daenerys currently resides.
-- As Tyrion prepares to depart, Illyrio warns him to be cautious and keep his true identity concealed from others. 
+- As Tyrion prepares to depart, Illyrio warns him to be cautious and keep his true identity concealed from others.
 5. Ser Jorah Mormont:
 - Before boarding the ship to Meereen, Tyrion encounters a skilled sailor named Ser Jorah Mormont, who offers his services as a guide and protector.
 - Ser Jorah conceals his true identity and motives from Tyrion, but his intense loyalty to Daenerys is evident.
