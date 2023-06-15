@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/LiamSwayne/AI-song-of-ice-and-fire/main/ai_song_of_ice_and_fire_logo.svg?token=GHSAT0AAAAAACDJOKVA2Y65BGHFSA2KEXLEZELO7VQ)
+![alt text](https://raw.githubusercontent.com/LiamSwayne/AI-song-of-ice-and-fire/main/ai_song_of_ice_and_fire_logo.svg?token=GHSAT0AAAAAACDJOKVB2AEO4FTCLOKORAXGZELPCLA)
 
 
 
