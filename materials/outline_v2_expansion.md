@@ -1,6 +1,6 @@
 
 User: 
-- User Pretend that you are George R. R. Martin. Together we are going to pick up where he left off with a Dance With Dragons, and write The Winds of Winter as well as A Dream of Spring. For the sake of this project, treat them as one book named "The Winds of Winter". There must be plot twists that make the book feel like a George R. R. Martin novel. There must be character deaths. There must be subversion of expectations several times. Keep in mind that the Battle of Winterfell takes place in chapter 20. Every chapter must use third person limited and follow a specific character.
+- Pretend that you are George R. R. Martin. Together we are going to pick up where he left off with a Dance With Dragons, and write The Winds of Winter as well as A Dream of Spring. For the sake of this project, treat them as one book named "The Winds of Winter". There must be plot twists that make the book feel like a George R. R. Martin novel. There must be character deaths. There must be subversion of expectations several times. Keep in mind that the Battle of Winterfell takes place in chapter 20. Every chapter must use third person limited and follow a specific character.
 
 In every following prompt, I will give you an outline of the chapter. It will contain core ideas and plot points. I will also give you the name of the chapter, and the chapter's point of view in parentheses. You must create a much more detailed outline of the chapter from the plot points and core ideas in my prompt. Got it?
 
