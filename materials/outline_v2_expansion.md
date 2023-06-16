@@ -526,11 +526,11 @@ Outline:
 - He displays strategic thinking and military prowess, utilizing the skills of his allies to overcome obstacles and gain the upper hand.
 - However, Jon must also contend with unexpected betrayals from within his ranks, testing his leadership and resolve. 
 5. Sacrifices and Unexpected Twists:
-- The chapter reaches its climax with intense battles and sacrifices made by Jon and his forces.
+- A climax is reached with intense battles and sacrifices made by Jon and his forces.
 - Unexpected twists and turns occur, with the outcome of the assault on Winterfell hanging in the balance.
 - Jon faces personal dilemmas and the harsh realities of war, making difficult choices that have lasting consequences for both himself and those around him. 
 6. The Aftermath:
-- The story continues with with the aftermath of the assault on Winterfell and the fate of "Arya Stark" revealed.
+- The story continues with Jon reflecting on the aftermath of the assault on Winterfell and the fate of "Arya Stark" revealed.
 - Jon reflects on the losses suffered and the cost of his decisions, grappling with the weight of leadership and the sacrifices required to protect the North.
 - He must regroup, reassess his position, and prepare for the challenges that lie ahead as he seeks to solidify his claim as the true King in the North.
 
