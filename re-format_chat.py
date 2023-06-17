@@ -28,10 +28,11 @@ def process_string(string, prompts=True):
 
     length = 0
     strList[1] = chunkPrompt[2:] + strList[1]
+    strList=[1:]
 
-    for i in range(len(strList)-1):
-        length+=len(strList[i+1])
-        print(strList[i+1]+"\n")
+    for i in range(len(strList)):
+        length+=len(strList[i])
+        print(strList[i]+"\n")
         
     print("Length: "+str(length))
 
