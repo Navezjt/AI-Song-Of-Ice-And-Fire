@@ -1,6 +1,4 @@
-![alt text](https://raw.githubusercontent.com/LiamSwayne/AI-song-of-ice-and-fire/main/ai_song_of_ice_and_fire_logo.svg)
-
-
+![AI Song of Ice and Fire Logo](./ai_song_of_ice_and_fire_logo.svg)
 
 George R. R. Martin's popular series "A Song of Ice and Fire" completed with AI large language models.
 
