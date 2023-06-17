@@ -68,7 +68,7 @@ footer='''                                </array>
 				<key>ModificationDate</key>
 				<real>708705744.04295695</real>
 				<key>Name</key>
-				<string>Temp</string>
+				<string>Commands</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>
