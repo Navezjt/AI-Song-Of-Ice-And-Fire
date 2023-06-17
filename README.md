@@ -14,3 +14,16 @@ Tools used:
 - ChatGPT to Markdown [chrome extension](https://chrome.google.com/webstore/detail/chatgpt-to-markdown/adghjpdmpbcmppeafpodcjpagmegdpci): Exporting chats and feeding them back in for outline expansion.
 - Grammarly: Grammar fixes (premium subscription not used).
 - Keyboard Maestro: automating the feeding of thousands of prompts into ChatGPT (free trial).
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/LiamSwayne/AI-song-of-ice-and-fire/raw/main/auto-prompting_ChatGPT_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+
+Here's a demo of me using Keyboard Maestro to auto-prompt ChatGPT. The Keyboard Maestro program runs for all 2037 prompts. The program is also capable of using the "continue generating" button when it appears, but it isn't shown in this video.
+https://github.com/LiamSwayne/AI-song-of-ice-and-fire/assets/108629034/b6b4f455-62a6-4cb9-8029-afad2bb78a6e
+Outside of this demo the program has an 80 second minimum time between prompts so it doesn't breach the hourly generation limit for ChatGPT.
