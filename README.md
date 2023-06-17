@@ -13,4 +13,4 @@ Tools used:
 - ChatGPT: Outline generation and expansion. Writing.
 - ChatGPT to Markdown [chrome extension](https://chrome.google.com/webstore/detail/chatgpt-to-markdown/adghjpdmpbcmppeafpodcjpagmegdpci): Exporting chats and feeding them back in for outline expansion.
 - Grammarly: Grammar fixes (premium subscription not used).
-- Keyboard Maestro (free trial).
+- Keyboard Maestro: automating the feeding of thousands of prompts into ChatGPT (free trial).
