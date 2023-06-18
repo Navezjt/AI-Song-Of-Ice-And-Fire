@@ -17,7 +17,7 @@ Tools used:
 
 
 Here's a demo of me using Keyboard Maestro to auto-prompt ChatGPT. The Keyboard Maestro program runs for all 2037 prompts. The program is also capable of using the "continue generating" button when it appears, but it isn't shown in this video.
-https://github.com/LiamSwayne/AI-song-of-ice-and-fire/assets/108629034/b6b4f455-62a6-4cb9-8029-afad2bb78a6e
+https://github.com/LiamSwayne/AI-song-of-ice-and-fire/raw/main/auto-prompting_ChatGPT_demo.mp4
 Outside of this demo the program has an 80 second minimum time between prompts so it doesn't breach the hourly generation limit for ChatGPT.
 
 ChatGPT is keeping track of a massive web of characters over the course of the novel. For example, you can see in this screenshot that Illyrio phases in and out of the story, doesn't appear for hundreds of pages, but is still kept in the back of the mind of the AI for when he is needed:
