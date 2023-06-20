@@ -22,9 +22,7 @@ ChatGPT is capable of keeping track of a massive web of characters over the cour
 
 <img width="600" alt="Screen Shot 2023-06-18 at 3 49 15 PM" src="https://github.com/LiamSwayne/AI-song-of-ice-and-fire/assets/108629034/21ad1d18-1cd8-4480-a650-1de278c82e3c">
 
-Can the writing be detected as written by an AI? Sometimes. OpenAI's official AI detection software stated that the generated text was "very unlikely" to be written by an AI.
+Can the writing be detected as written by an AI? Sometimes. OpenAI's official AI detection software stated that the generated text was "very unlikely" to be written by an AI (tested on June 19, 2023).
 
 <img width="600" alt="Screen Shot 2023-06-19 at 8 21 37 PM" src="https://github.com/LiamSwayne/AI-song-of-ice-and-fire/assets/108629034/ce527587-5f89-4ee3-8112-64e0f41d7518">
 
-Verification:
-https://web.archive.org/web/20230620002242/https://platform.openai.com/ai-text-classifier
