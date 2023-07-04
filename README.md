@@ -26,3 +26,5 @@ Can the writing be detected as written by an AI? Sometimes. OpenAI's official AI
 
 <img width="600" alt="Screen Shot 2023-06-19 at 8 21 37 PM" src="https://github.com/LiamSwayne/AI-song-of-ice-and-fire/assets/108629034/ce527587-5f89-4ee3-8112-64e0f41d7518">
 
+Some of the chats are so long that they crash ChatGPT when generating a shared link, but the shorter ones are listed below:
+- https://chat.openai.com/share/81946f53-2231-454c-9a72-3cc56d0c7eed
