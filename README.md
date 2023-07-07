@@ -4,7 +4,7 @@ George R. R. Martin's popular series "A Song of Ice and Fire" completed with AI 
 
 *CAUTION: The materials folder contains SPOILERS for A Song of Ice and Fire.*
 
-*Disclaimer: This is NOT meant to "replace" George R. R. Martin's work. It's an experiment to see how AI writes extensive texts. I respect writers, and am not trying to push the idea that AI can replace them.*
+*Disclaimer: This is NOT an attempt to "replace" George R. R. Martin's work. It's an experiment to see how AI writes extensive texts. I respect writers, and am not trying to push the idea that AI can replace them.*
 
 Self-imposed rules:
 - No human writing other than the prompts, obviously.
