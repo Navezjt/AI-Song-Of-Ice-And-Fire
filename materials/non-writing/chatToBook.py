@@ -37,7 +37,7 @@ chat = '''
 
 chunks = formatChat(chat)
 
-
-for text in chunks:
-    print()
-    print(text)
+for i in range(len(chunks)):
+    print(chunks[i])
+    if i % 4 == 3:
+        print()
