@@ -7,9 +7,9 @@ George R. R. Martin's popular series "A Song of Ice and Fire" completed with AI 
 *Disclaimer: This is NOT an attempt to "replace" George R. R. Martin's work. It's an experiment to see how AI writes extensive texts. I respect writers, and am not trying to push the idea that AI can replace them.*
 
 Self-imposed rules:
-- No human writing other than the prompts, obviously.
+- No human writing other than the prompts.
 - No paid tools.
-- I am not allowed to read any of the books in A Song of Ice and Fire, as I would be able to unnaturally guide the generation.
+- No prior knowledge of the events that take place in books 1-5, which would enable unnaturally guided generation.
 
 Tools used:
 - ChatGPT: Outline generation and expansion. Writing.
