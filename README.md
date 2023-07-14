@@ -30,6 +30,7 @@ Draft 2 (the expansion of draft 1, which was itself an expansion of the outline)
 
 One of the chats used in the third draft ran into an error message regarding the token limit that I haven't seen anywhere else:
 <img width="600" src="https://raw.githubusercontent.com/LiamSwayne/AI-Song-Of-Ice-And-Fire/main/chatGPT_token_limit.png?token=GHSAT0AAAAAACE33CI2IFHA4NJBWALKET7UZFRINIQ">
+
 Fully understanding this message would require knowledge of the inner workings of ChatGPT. The message preceding this error was not the longest message I gave to ChatGPT, and the chat it was sent through was far from the longest chat created for the project.
 
 Some of the chats are so long that they crash ChatGPT when generating a shared link, but the shorter ones are listed below:
