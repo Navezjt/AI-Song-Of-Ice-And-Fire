@@ -29,7 +29,8 @@ Can the writing be detected as written by an AI? Sometimes. OpenAI's official AI
 Draft 2 (the expansion of draft 1, which was itself an expansion of the outline) was so big that it was split into four chats. At some point OpenAI decided to start gradually decreasing the maximum length of chats. As a result, draft 2 was split into progressively shorter chat sessions. The four chats ([1](./materials/draft_2_chat_1.md), [2](./materials/draft_2_chat_2.md), [3](./materials/draft_2_chat_3.md), [4](./materials/draft_2_chat_4.md)) are accessible in the materials folder, as well as a [unified version](./materials/draft_2_temporary_unformatted.md) which contains the entire draft without the prompts.
 
 One of the chats used in the third draft ran into an error message regarding the token limit that I haven't seen anywhere else:
-![token_limit](./chatGPT_token_limit.png)
+<img width="600" src="https://raw.githubusercontent.com/LiamSwayne/AI-Song-Of-Ice-And-Fire/main/chatGPT_token_limit.png?token=GHSAT0AAAAAACE33CI2IFHA4NJBWALKET7UZFRINIQ">
+Fully understanding this message would require knowledge of the inner workings of ChatGPT. The message preceding this error was not the longest message I gave to ChatGPT, and the chat it was sent through was far from the longest chat created for the project.
 
 Some of the chats are so long that they crash ChatGPT when generating a shared link, but the shorter ones are listed below:
 - https://chat.openai.com/share/81946f53-2231-454c-9a72-3cc56d0c7eed
