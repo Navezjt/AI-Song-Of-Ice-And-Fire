@@ -16,7 +16,7 @@ Tools used:
 - ChatGPT to Markdown [chrome extension](https://chrome.google.com/webstore/detail/chatgpt-to-markdown/adghjpdmpbcmppeafpodcjpagmegdpci): Exporting chats and feeding them back in for outline expansion.
 - Keyboard Maestro: Automating the feeding of thousands of prompts into ChatGPT (free trial).
 
-Here's a [demo](https://github.com/LiamSwayne/AI-song-of-ice-and-fire/assets/108629034/b6b4f455-62a6-4cb9-8029-afad2bb78a6e) of me using Keyboard Maestro to auto-prompt ChatGPT. The Keyboard Maestro program runs for all 2037 prompts. The program is also capable of using the "continue generating" button when it appears, but it isn't shown in this video. Outside of this demo the program has an 80 second minimum time between prompts so it doesn't breach the hourly generation limit for ChatGPT.
+I recorded a [demo](https://github.com/LiamSwayne/AI-song-of-ice-and-fire/assets/108629034/b6b4f455-62a6-4cb9-8029-afad2bb78a6e) of Keyboard Maestro auto-prompting ChatGPT. The Keyboard Maestro program runs for all 2037 prompts. The program is also capable of using the "continue generating" button when it appears, but it isn't shown in this video. Outside of this demo the program has an 80 second minimum time between prompts so it doesn't breach the hourly generation limit for ChatGPT. This limit was later increased to 130 seconds as OpenAI decreased the maximum tokens per hour.
 
 ChatGPT is capable of keeping track of a massive web of characters over the course of the novel. For example, you can see in this screenshot that Illyrio phases in and out of the story, doesn't appear for hundreds of pages, but is still kept in the back of the mind of the AI for when the character is needed:
 
@@ -28,7 +28,7 @@ Can the writing be detected as written by an AI? Sometimes. OpenAI's official AI
 
 Draft 2 (the expansion of draft 1, which was itself an expansion of the outline) was so big that it was split into four chats. At some point OpenAI decided to start gradually decreasing the maximum length of chats. As a result, draft 2 was split into progressively shorter chat sessions. The four chats ([1](./materials/draft_2_chat_1.md), [2](./materials/draft_2_chat_2.md), [3](./materials/draft_2_chat_3.md), [4](./materials/draft_2_chat_4.md)) are accessible in the materials folder, as well as a [unified version](./materials/draft_2_temporary_unformatted.md) which contains the entire draft without the prompts.
 
-One of the chats used in the third draft ran into a token limit I haven't seen produced before:
+One of the chats used in the third draft ran into an error message regarding the token limit that I haven't seen anywhere else:
 ![token_limit](./chatGPT_token_limit.png)
 
 Some of the chats are so long that they crash ChatGPT when generating a shared link, but the shorter ones are listed below:
