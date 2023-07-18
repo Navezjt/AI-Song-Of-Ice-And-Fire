@@ -36,3 +36,5 @@ Fully understanding this message would require knowledge of the inner workings o
 
 Some of the chats are so long that they crash ChatGPT when generating a shared link, but the shorter ones are listed below:
 - https://chat.openai.com/share/81946f53-2231-454c-9a72-3cc56d0c7eed
+- https://chat.openai.com/share/c78a1e31-c14f-4bdf-8bd2-0b0f422f6270
+- https://chat.openai.com/share/140ac0fb-62ad-4304-8a80-5cddf6208665
