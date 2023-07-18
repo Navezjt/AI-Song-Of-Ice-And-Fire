@@ -6,6 +6,10 @@ George R. R. Martin's popular series "A Song of Ice and Fire" completed with AI 
 
 *Disclaimer: This is NOT an attempt to "replace" George R. R. Martin's work. It's an experiment to see how AI writes extensive texts. I respect writers, and am not trying to push the idea that AI can replace them.*
 
+The final books can be viewed here:
+- [The Winds of Winter](https://liamswayne.github.io/wow.html)
+- [A Dream of Spring](https://liamswayne.github.io/dos.html)
+
 Self-imposed rules:
 - No human writing other than the prompts.
 - No paid tools.
