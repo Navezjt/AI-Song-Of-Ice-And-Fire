@@ -1,10 +1,10 @@
 ![AI Song of Ice and Fire Logo](./ai_song_of_ice_and_fire_logo.svg)
 
-George R. R. Martin's popular series "A Song of Ice and Fire" completed with AI large language models.
+George R. R. Martin's popular series "A Song of Ice and Fire" completed with large language models.
 
 *CAUTION: The materials folder contains SPOILERS for A Song of Ice and Fire.*
 
-*Disclaimer: This is NOT an attempt to "replace" George R. R. Martin's work. It's an experiment to see how AI writes extensive texts. I respect writers, and am not trying to push the idea that AI can replace them.*
+*Disclaimer: This is NOT an attempt to "replace" George R. R. Martin's work. It's an experiment to see how AI writes extensive texts. This project is not intended to push the idea that AI can replace writers.*
 
 The final books can be viewed here:
 - [The Winds of Winter](https://liamswayne.github.io/wow.html)
@@ -13,12 +13,11 @@ The final books can be viewed here:
 Self-imposed rules:
 - No human writing other than the prompts.
 - No paid tools.
-- No prior knowledge of the events that take place in books 1-5, which would enable unnaturally guided generation.
 
 Tools used:
 - ChatGPT: Outline generation and expansion. Writing.
 - ChatGPT to Markdown [chrome extension](https://chrome.google.com/webstore/detail/chatgpt-to-markdown/adghjpdmpbcmppeafpodcjpagmegdpci): Exporting chats and feeding them back in for outline expansion.
-- Keyboard Maestro: Automating the feeding of thousands of prompts into ChatGPT (free trial).
+- Keyboard Maestro (free trial): Automating the feeding of thousands of prompts into ChatGPT.
 
 I recorded a [demo](https://github.com/LiamSwayne/AI-song-of-ice-and-fire/assets/108629034/b6b4f455-62a6-4cb9-8029-afad2bb78a6e) of Keyboard Maestro auto-prompting ChatGPT. The Keyboard Maestro program runs for all 2037 prompts. The program is also capable of using the "continue generating" button when it appears, but it isn't shown in this video. Outside of this demo the program has an 80 second minimum time between prompts so it doesn't breach the hourly generation limit for ChatGPT. This limit was later increased to 130 seconds as OpenAI decreased the maximum tokens per hour.
 
@@ -38,7 +37,16 @@ One of the chats used in the third draft ran into an error message regarding the
 
 Fully understanding this message would require knowledge of the inner workings of ChatGPT. The message preceding this error was not the longest message I gave to ChatGPT, and the chat it was sent through was far from the longest chat created for the project.
 
-Some of the chats are so long that they crash ChatGPT when generating a shared link, but some of the shorter ones are listed below:
+Some of the chats are so long that they crash ChatGPT when generating a shared link. Below are some samples of the what the chats used to execute this project look like:
 - https://chat.openai.com/share/81946f53-2231-454c-9a72-3cc56d0c7eed
 - https://chat.openai.com/share/c78a1e31-c14f-4bdf-8bd2-0b0f422f6270
 - https://chat.openai.com/share/140ac0fb-62ad-4304-8a80-5cddf6208665
+
+Metrics:
+- Word count:
+- Prompts served: ~10000
+
+Miscellaneous discoveries:
+- ChatGPT prohibits use of the word "chink" in prompts but uses the word in responses. This was discovered because ChatGPT used the phrase "chink in their armor" multiple times in draft 2, which caused a "violation of content policy" warning when fed back into ChatGPT for draft 3. As of 2023/06/18 this is still an issue that needs solving.
+- The version of ChatGPT listed at the bottom of the page is not the exact version of the service you are recieving at any given time. This entire project was run on the "ChatGPT May 24 Version", but several measurable metrics changed in the time the project was running. The maximum number of prompts per chat decreased, with draft 2 chat 1 being by far the longest chat achieved. Subsequent chats ran into this limitation much earlier. The maximum number of prompts accepted per hour also seemed to decrease, although this may be due to the high usage of my account. While the behavior of ChatGPT may not have changed since May 24th, the service itself was changed.
+- The messages per hour limit seems to be tied to the number of response tokens generated. Draft 2 generated lengthy responses, so it required 120 second gaps between prompts on multiple occasions to stay below the limit. Draft 3 generated significantly shorter responses, and never ran into a limit while serving prompts with 90 second gaps.
