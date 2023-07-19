@@ -2,9 +2,7 @@
 
 George R. R. Martin's popular series "A Song of Ice and Fire" completed with large language models.
 
-*CAUTION: The materials folder contains SPOILERS for A Song of Ice and Fire.*
-
-*Disclaimer: This is NOT an attempt to "replace" George R. R. Martin's work. It's an experiment to see how AI writes extensive texts. This project is not intended to push the idea that AI can replace writers.*
+*Caution: The materials folder contains SPOILERS for A Song of Ice and Fire.*
 
 The final books can be viewed here:
 - [The Winds of Winter](https://liamswayne.github.io/wow.html)
@@ -51,3 +49,5 @@ Miscellaneous discoveries:
 - ChatGPT prohibits the use of the word "chink" in prompts but uses the word in responses. This was discovered because ChatGPT used the phrase "chink in their armor" multiple times in draft 2, which caused a "violation of content policy" warning when fed back into ChatGPT for draft 3. As of 2023/07/18, this is still an issue that needs solving.
 - The version of ChatGPT listed at the bottom of the page is not the exact version of the service you are receiving at any given time. This entire project was run on the "ChatGPT May 24 Version", but several measurable metrics changed during the time the project was running. The maximum number of prompts per chat decreased, with [draft 2 chat 1](https://raw.githubusercontent.com/LiamSwayne/AI-Song-Of-Ice-And-Fire/main/materials/draft_2_chat_1.md?token=GHSAT0AAAAAACE33CI2ISW4X4IMZVMHM4YYZFWXCDQ) being by far the longest chat achieved. Subsequent chats ran into this limitation much earlier. The maximum number of prompts accepted per hour also seemed to decrease, although this may be due to the high usage of my account. While the behavior of ChatGPT may not have changed since May 24th, the service itself was changed.
 - The messages per hour limit seems to be tied to the number of response tokens generated. Draft 2 generated lengthy responses, so it required 120-second gaps between prompts on multiple occasions to stay below the limit. Draft 3 generated significantly shorter responses and never ran into a limit while serving prompts with 90-second gaps.
+
+*Disclaimer: This is NOT an attempt to "replace" George R. R. Martin's work. It's an experiment to see how AI writes extensive texts. This project is not intended to push the idea that AI can replace writers.*
