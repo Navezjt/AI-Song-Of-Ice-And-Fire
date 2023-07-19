@@ -21,17 +21,17 @@ I recorded a [demo](./auto-prompting_ChatGPT_demo.mp4) of Keyboard Maestro auto-
 
 ChatGPT is capable of keeping track of a massive web of characters over the course of the novel. For example, you can see in this screenshot that Illyrio phases in and out of the story, doesn't appear for hundreds of pages, but is still kept in the back of the mind of the AI for when the character is needed:
 
-<img width="600" alt="Screen Shot 2023-06-18 at 3 49 15 PM" src="./character_in_out_story">
+<img width="600" alt="Screen Shot 2023-06-18 at 3 49 15 PM" src="./character_in_out_story.png">
 
 Can the writing be detected as written by an AI? Sometimes. OpenAI's official AI detection software stated that the generated text was "very unlikely" to be written by an AI. However, there are far better AI detection tools out there that have no problem identifying this text as AI generated.
 
-<img width="600" alt="Screen Shot 2023-06-19 at 8 21 37 PM" src="./ai_detection">
+<img width="600" alt="Screen Shot 2023-06-19 at 8 21 37 PM" src="./ai_detection.png">
 
 Draft 2 (the expansion of draft 1, which was itself an expansion of the outline) was so big that it was split into four chats. At some point OpenAI decided to start gradually decreasing the maximum length of chats. As a result, draft 2 was split into progressively shorter chat sessions. The four chats ([1](./materials/draft_2_chat_1.md), [2](./materials/draft_2_chat_2.md), [3](./materials/draft_2_chat_3.md), [4](./materials/draft_2_chat_4.md)) are accessible in the materials folder, as well as a [unified version](./materials/draft_2_temporary_unformatted.md) which contains the entire draft without the prompts.
 
 One of the chats used in the third draft ran into an error message regarding the token limit that I haven't seen anywhere else:
 
-<img width="600" alt="chatGPT_token_limit" src="./token_error">
+<img width="600" alt="chatGPT_token_limit" src="./token_error.png">
 
 Fully understanding this message would require knowledge of the inner workings of ChatGPT. The message preceding this error was not the longest message I gave to ChatGPT, and the chat it was sent through was far from the longest chat created for the project.
 
