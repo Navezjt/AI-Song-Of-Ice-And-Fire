@@ -17,7 +17,7 @@ Tools used:
 - ChatGPT to Markdown [chrome extension](https://chrome.google.com/webstore/detail/chatgpt-to-markdown/adghjpdmpbcmppeafpodcjpagmegdpci): Exporting chats and feeding them back in for outline expansion.
 - Keyboard Maestro (free trial): Automating the feeding of thousands of prompts into ChatGPT.
 
-I recorded a [demo](./auto-prompting_ChatGPT_demo.mp4) of Keyboard Maestro auto-prompting ChatGPT. The Keyboard Maestro program runs for all 2037 prompts. The program is also capable of using the "continue generating" button when it appears, but it isn't shown in this video. Outside of this demo, the program has a minimum time between prompts, so it doesn't breach the hourly generation limit for ChatGPT.
+I recorded a [demo](./auto-prompting_ChatGPT_demo.mp4) of Keyboard Maestro auto-prompting ChatGPT. The program is capable of using the "continue generating" button when it appears, but it isn't shown in this video. Outside of this demo, the program has a minimum time between prompts, so it doesn't breach the hourly generation limit for ChatGPT.
 
 ChatGPT is capable of keeping track of a massive web of characters over the course of the novel. For example, you can see in this screenshot that Illyrio phases in and out of the story, doesn't appear for hundreds of pages, but is still kept in the back of the mind of the AI for when the character is needed:
 
