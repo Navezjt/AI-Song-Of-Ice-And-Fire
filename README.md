@@ -16,6 +16,7 @@ Tools used:
 - ChatGPT: Outline generation and expansion. Writing.
 - ChatGPT to Markdown [chrome extension](https://chrome.google.com/webstore/detail/chatgpt-to-markdown/adghjpdmpbcmppeafpodcjpagmegdpci): Exporting chats and feeding them back in for outline expansion.
 - Keyboard Maestro (free trial): Automating the feeding of thousands of prompts into ChatGPT.
+- Python: string splitting and formatting.
 
 I recorded a [demo](./auto-prompting_ChatGPT_demo.mp4) of Keyboard Maestro auto-prompting ChatGPT. The program is capable of using the "continue generating" button when it appears, but it isn't shown in this video. Outside of this demo, the program has a minimum time between prompts, so it doesn't breach the hourly generation limit for ChatGPT.
 
