@@ -5,8 +5,8 @@ George R. R. Martin's popular series "A Song of Ice and Fire" completed with lar
 *Caution: The materials folder contains SPOILERS for A Song of Ice and Fire.*
 
 The final books can be viewed here:
-- [The Winds of Winter](https://liamswayne.github.io/wow.html)
-- [A Dream of Spring](https://liamswayne.github.io/dos.html)
+- [The Winds of Winter](https://liamswayne.github.io/wow.html) (also available as a [PDF](https://liamswayne.github.io/The_Winds_of_Winter.pdf))
+- [A Dream of Spring](https://liamswayne.github.io/dos.html) (also available as a [PDF](https://liamswayne.github.io/A_Dream_of_Spring.pdf))
 
 Self-imposed rules:
 - No human writing other than the prompts.
