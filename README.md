@@ -24,7 +24,7 @@ ChatGPT is capable of keeping track of a massive web of characters over the cour
 
 <img width="600" alt="Screen Shot 2023-06-18 at 3 49 15 PM" src="./character_in_out_story.png">
 
-Can the writing be detected as written by an AI? Sometimes. OpenAI's official AI detection software stated that the generated text was "very unlikely" to be written by an AI. However, there are far better AI detection tools out there that have no problem identifying this text as AI generated.
+Can the writing be detected as written by an AI? Sometimes. OpenAI's official AI detection software stated that the generated text was "very unlikely" to be written by an AI (UPDATE: OpenAI's detection tool [shut down](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)). However, there are far better AI detection tools out there that have no problem identifying this text as AI generated.
 
 <img width="600" alt="Screen Shot 2023-06-19 at 8 21 37 PM" src="./ai_detection.png">
 
